@@ -31,11 +31,6 @@ body {
 }
 
 
-body::-webkit-scrollbar {
-	width: 0em;
-	background-color: #F5F5F5;
-  }
-
 
 
 p {
